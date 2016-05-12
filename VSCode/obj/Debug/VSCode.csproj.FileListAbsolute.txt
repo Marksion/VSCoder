@@ -1,1 +1,7 @@
 D:\Marksion\VSCode\VSCode\VSCode\bin\Debug\VSCode.exe.config
+c:\Apps\VSCoder\VSCode\obj\Debug\VSCode.csprojResolveAssemblyReference.cache
+C:\Apps\VSCoder\VSCode\bin\Debug\VSCode.exe.config
+C:\Apps\VSCoder\VSCode\bin\Debug\VSCode.exe
+C:\Apps\VSCoder\VSCode\bin\Debug\VSCode.pdb
+C:\Apps\VSCoder\VSCode\obj\Debug\VSCode.exe
+C:\Apps\VSCoder\VSCode\obj\Debug\VSCode.pdb

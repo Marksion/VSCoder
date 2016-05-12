@@ -1,0 +1,14 @@
+C:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.exe.config
+C:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.exe
+C:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.pdb
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.csprojResolveAssemblyReference.cache
+C:\Apps\VSCoder\WpfApps\obj\Debug\MainWindow.g.cs
+C:\Apps\VSCoder\WpfApps\obj\Debug\App.g.cs
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps_MarkupCompile.cache
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps_MarkupCompile.lref
+C:\Apps\VSCoder\WpfApps\obj\Debug\MainWindow.baml
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.g.resources
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.Properties.Resources.resources
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.csproj.GenerateResource.Cache
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.exe
+C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.pdb
