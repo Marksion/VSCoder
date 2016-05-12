@@ -1,0 +1,26 @@
+dockerauth:
+  image: cesanta/docker_auth:stable
+  ports:
+    - "5001:5001"
+  volumes:
+    - /Users/xiaods/Desktop/secured-registry/auth_server/config:/config:ro
+    - /Users/xiaods/Desktop/secured-registry/log/docker_auth:/logs
+    - /Users/xiaods/Desktop/secured-registry/auth_server/ssl:/ssl
+  command: /config/auth_config.yml
+  restart: always
+
+registry:
+  image: registry:2.3.0
+  ports:
+    - "5000:5000"
+  volumes:
+    - /Users/xiaods/Desktop/secured-registry/auth_server/ssl:/ssl
+    - /Users/xiaods/Desktop/secured-registry/docker_registry/data:/var/lib/registry
+  restart: always
+  environment:
+    - REGISTRY_STORAGE_FILESYSTEM_ROOTDIRECTORY=/var/lib/registry
+    - REGISTRY_AUTH=token
+    - REGISTRY_AUTH_TOKEN_REALM=https://localhost:5001/auth
+    - REGISTRY_AUTH_TOKEN_SERVICE="Docker registry"
+    - REGISTRY_AUTH_TOKEN_ISSUER="Auth Service"
+    - REGISTRY_AUTH_TOKEN_ROOTCERTBUNDLE=/ssl/server.pem

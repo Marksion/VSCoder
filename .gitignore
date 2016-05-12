@@ -1,2 +1,6 @@
-"# Ignore bin/* " 
-"bin/* " 
+
+# Ignore bin or obj
+
+*/bin/*
+*/obj/*
+
