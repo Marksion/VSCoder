@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <DataGrid x:Name="dataGrid1"  AutoGenerateColumns="True" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Height="217" Width="478">
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Header="article_id" Width="80" Binding="{Binding article_id}"/>
+                <DataGridTextColumn Header="title" Width="80" Binding="{Binding title, Mode=TwoWay}"/>
+                <DataGridTextColumn Header="date_created" Width="80" Binding="{Binding date_created}"/>
+                <DataGridTextColumn Header="draft" Width="80" Binding="{Binding draft, Mode=TwoWay}"/>
+                <DataGridTextColumn Header="content" Width="80" Binding="{Binding content, Mode=TwoWay}"/>
+            </DataGrid.Columns>-->
+        </DataGrid>
+
     </Grid>
 </Window>
