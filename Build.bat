@@ -1,2 +1,2 @@
 // Build all solutions
-MsBuild VSCode.sln 
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild D:\Apps\VSCoder\VSCoder.sln 

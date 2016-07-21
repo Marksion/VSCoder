@@ -5,3 +5,9 @@ C:\Apps\VSCoder\VSCode\bin\Debug\VSCode.exe
 C:\Apps\VSCoder\VSCode\bin\Debug\VSCode.pdb
 C:\Apps\VSCoder\VSCode\obj\Debug\VSCode.exe
 C:\Apps\VSCoder\VSCode\obj\Debug\VSCode.pdb
+D:\Apps\VSCoder\VSCode\bin\Debug\VSCode.exe.config
+D:\Apps\VSCoder\VSCode\bin\Debug\VSCode.exe
+D:\Apps\VSCoder\VSCode\bin\Debug\VSCode.pdb
+D:\Apps\VSCoder\VSCode\obj\Debug\VSCode.csprojResolveAssemblyReference.cache
+D:\Apps\VSCoder\VSCode\obj\Debug\VSCode.exe
+D:\Apps\VSCoder\VSCode\obj\Debug\VSCode.pdb
