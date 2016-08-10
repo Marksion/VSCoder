@@ -15,15 +15,6 @@ C:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.pdb
 D:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.exe.config
 D:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.exe
 D:\Apps\VSCoder\WpfApps\bin\Debug\WpfApps.pdb
-D:\Apps\VSCoder\WpfApps\bin\Debug\mscorlib.dll
-D:\Apps\VSCoder\WpfApps\bin\Debug\System.Net.Http.dll
-D:\Apps\VSCoder\WpfApps\bin\Debug\System.Net.Http.xml
-D:\Apps\VSCoder\WpfApps\bin\Debug\zh-Hans\System.Net.Http.resources.dll
-D:\Apps\VSCoder\WpfApps\bin\Debug\normidna.nlp
-D:\Apps\VSCoder\WpfApps\bin\Debug\normnfc.nlp
-D:\Apps\VSCoder\WpfApps\bin\Debug\normnfd.nlp
-D:\Apps\VSCoder\WpfApps\bin\Debug\normnfkc.nlp
-D:\Apps\VSCoder\WpfApps\bin\Debug\normnfkd.nlp
 D:\Apps\VSCoder\WpfApps\obj\Debug\WpfApps.csprojResolveAssemblyReference.cache
 D:\Apps\VSCoder\WpfApps\obj\Debug\MainWindow.g.cs
 D:\Apps\VSCoder\WpfApps\obj\Debug\App.g.cs

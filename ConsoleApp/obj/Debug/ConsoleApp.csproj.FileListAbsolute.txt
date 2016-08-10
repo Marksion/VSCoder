@@ -7,15 +7,6 @@ C:\Apps\VSCoder\ConsoleApp\obj\Debug\ConsoleApp.pdb
 D:\Apps\VSCoder\ConsoleApp\bin\Debug\ConsoleApp.exe.config
 D:\Apps\VSCoder\ConsoleApp\bin\Debug\ConsoleApp.exe
 D:\Apps\VSCoder\ConsoleApp\bin\Debug\ConsoleApp.pdb
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\mscorlib.dll
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\System.Net.Http.dll
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\System.Net.Http.xml
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\zh-Hans\System.Net.Http.resources.dll
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\normidna.nlp
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\normnfc.nlp
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\normnfd.nlp
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\normnfkc.nlp
-D:\Apps\VSCoder\ConsoleApp\bin\Debug\normnfkd.nlp
 D:\Apps\VSCoder\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
 D:\Apps\VSCoder\ConsoleApp\obj\Debug\ConsoleApp.exe
 D:\Apps\VSCoder\ConsoleApp\obj\Debug\ConsoleApp.pdb
