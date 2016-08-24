@@ -1,0 +1,10 @@
+{
+  "name": "node-console1",
+  "version": "0.0.0",
+  "description": "NodeConsole1",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}

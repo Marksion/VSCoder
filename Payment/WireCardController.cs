@@ -119,7 +119,7 @@ namespace Payment
             var html = new StringBuilder();
             html.AppendLine("<html>").AppendLine("<head>");
             html.AppendFormat("<meta http-equiv=\"Content-Type\" content=\"application/x-www-form-urlencoded; charset={0}\" />", charset).AppendLine();
-            html.AppendLine("<style type=\"text/css\">#pay_form { margin: 30px auto 0 auto; text-align: left; } label{ width:250px; display:block;} input{ width: 220px;}</style>");
+            html.AppendLine("<style type=\"text/css\">#pay_form { margin: 30px auto 0 auto; width: 700px; text-align: left; } label{ width:250px;} input{ width: 220px;}</style>");
             html.AppendLine("</head>");
             html.AppendLine("<body onload=\"\">"); //javascript:document.pay_form.submit();
             //html.AppendLine("<div id=\"search_flight_loading\"><img src=\"/Content/img/oval.svg\" /></div>");
